@@ -20,7 +20,7 @@ export default class App extends Component {
               padding: 20,
               alignItems: 'center',
               flexDirection: 'column'}}>
-              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
+              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyy</Text>
           </View>
       </View>
     );
