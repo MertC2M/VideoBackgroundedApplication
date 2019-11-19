@@ -21,10 +21,6 @@ export default class App extends Component {
               alignItems: 'center',
               flexDirection: 'column'}}>
               <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
-              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
-              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
-              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
-              <Text style={{ color: 'red', fontWeight: 'bold'}}>yyyyyyyyyyyy</Text>
           </View>
       </View>
     );
